@@ -1,8 +1,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4999&pause=1000&color=ff0059&random=false&width=435&lines=Ol%C3%A1%2C+sou+o+Pedro Karkar!" alt="Typing SVG" /></a>
 
-![pedrokarkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrinhokas&theme=dark#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrinhokas&layout=compact)
+![pedrokarkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrokarkar&theme=dark#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrokarkar&layout=compact)
 <br>
 <hr>
 <h3><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff0059&random=false&width=435&lines=Atualmente+estudo%3A" alt="Typing SVG" /><h3/>
